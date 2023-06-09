@@ -3,6 +3,7 @@
 ### What I'm working on
 - [**ionware**](https://discord.gg/ionware), a lightweight Java fabric mod 1.19.2 that elevates your gameplay.
 - [automata], a statically-typed, domain-specific, procedural, and predictable programming language that defines finite-state machines ([FSMs](https://en.wikipedia.org/wiki/Finite-state_machine)).
+- [byteregistry](https://github.com/whoisghast/ByteRegistry), a utility class for registering and retrieving byte array representations of strings
 
 ### What I am
 - The COO at [Exalon Technologies].
