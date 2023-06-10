@@ -6,7 +6,7 @@
 - [byteregistry](https://github.com/whoisghast/ByteRegistry), a utility class for registering and retrieving byte array representations of strings
 
 ### What I am
-- The COO at [Exalon Technologies].
+- The CFO at [Exalon Technologies].
 - I'd prefer to live in an igloo but climate change is making it impossible.
 
 ### What I like in tech
